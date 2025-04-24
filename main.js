@@ -128,6 +128,7 @@ const buttons = document.querySelectorAll('button');
   window.onload = function(){
     alert("alert")
     alert("I reccomend to play this website if you have internet connection")
+    alert("please be gentle on this website because its a bit buggy")
     alert("be cautious")
     alert("El Psy Congroo...")
   }
